@@ -1,0 +1,14 @@
+.feed{
+    flex:5;
+    max-width: 85%;
+}
+
+.feedWrapper{
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    min-width: 78%;
+}
+
+
+

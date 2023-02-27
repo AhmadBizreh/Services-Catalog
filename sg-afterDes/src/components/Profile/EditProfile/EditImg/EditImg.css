@@ -1,0 +1,20 @@
+::file-selector-button{
+    /* font-size: 1rem;
+    background: rgb(158, 156, 190);
+    color: rgb(14, 1, 1);
+    padding: 1em;
+     */
+     font-size: 1rem;
+     border: 2px solid #12467a;
+     padding: .2em .4em;
+     border-radius: .2em;
+     background-color: #b4d3f0;
+     transition: 1s;
+  }
+
+  ::file-selector-button:hover {
+    background-color: #81ecec;
+    border: 2px solid #00cec9;
+  }
+
+  

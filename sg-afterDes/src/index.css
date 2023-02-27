@@ -1,0 +1,89 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", sans-serif;
+}
+/* //....................................... */
+* {
+  font-family: Avenir !important;
+}
+
+.ce-my-message-bubble {
+  background-color: #164778 !important;
+}
+
+.ce-chat-title-text {
+  color: #164778 !important;
+}
+
+.ce-chat-subtitle-text {
+  color: #164778 !important;
+  font-weight: 600;
+}
+/* 
+#ce-send-message-button {
+  position: relative !important;
+  background-color: #164778 !important;
+} */
+
+
+/* .ce-input.ce-textarea-input{
+  top:5px !important;
+  left:10px !important;
+  width: 300px !important;
+  height: 40px !important;
+  border-radius: 20px !important;
+} */
+
+/* .ce-input.ce-textarea-input::placeholder{
+  position: relative;
+  top:9px;
+} */
+
+.anticon.anticon-paper-clip.ce-attachment-icon{
+  display: none !important;
+}
+
+.ce-my-message-timestamp {
+  color: #164778 !important;
+}
+
+.transition-3 {
+  transition: all 0.33s ease;
+  -webkit-transition: all 0.33s ease;
+  -moz-transition: all 0.33s ease;
+}
+
+.transition-5 {
+  transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+}
+
+.ql-toolbar.ql-snow{
+  display: none;
+}
+
+.ql-snow .ql-toolbar button svg, .ql-snow.ql-toolbar button svg{
+  display: none;
+}

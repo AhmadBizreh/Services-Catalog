@@ -1,0 +1,14 @@
+.LoginButton {
+  margin-right: 10px !important;
+  text-align: center !important;
+  font-size: 15px !important;
+  font: inherit !important;
+  background-color: transparent !important;
+  border: 1px solid white !important;
+  color: white !important;
+  font-weight: bold !important;
+  padding: 0.5rem 1.5rem !important;
+  border-radius: 6px !important;
+  cursor: pointer !important;
+}
+
